@@ -12,13 +12,13 @@ Controllers
 
 Banco de dados NoSQL 
 - receitas.json 
-
+![image](https://user-images.githubusercontent.com/82849390/131426152-01890af0-fe79-4f60-85cf-58e85782321c.png)
 ```
 {
  "id":
  "title":"string",
  "fonte":https://www.panelinha.com.br/blog/alimentacaosaudavel/Quarto-round-file-de-peixe-congelado-x-file-de-peixe-empanado-congelado,
- "foto": img,
+ "foto": ![image](https://user-images.githubusercontent.com/82849390/131426152-01890af0-fe79-4f60-85cf-58e85782321c.png),
  "ingredientes":["strings"],
  "modo de fazer": "strings",
  "avaliação":number,
